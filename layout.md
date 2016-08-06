@@ -1,2 +1,3 @@
 2.tex
 5.tex
+Learning_to_use_Authorea_GitHub__.tex
